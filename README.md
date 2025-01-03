@@ -22,7 +22,7 @@ I am the author of [depthviz](https://github.com/noppanut15/depthviz), a Python 
 Given the project I am working on, YES!, I am a passionate freediver and scuba diver. I am a certified conservation diver, helping non-profit organizations conduct marine research and conservation activities.
 
 If you are interested in helping out with the depthviz, feel free to reach out or take a look at the issues labeled [`help wanted`](https://github.com/noppanut15/depthviz/labels/help%20wanted).
-Non-divers are also welcome. Who knows, one day you could become a competitive freediver and use this tool yourself!
+Non-divers are also welcome! Who knows, one day you could become a competitive freediver and use this tool yourself.
 
 #### 📫 How to reach me
 

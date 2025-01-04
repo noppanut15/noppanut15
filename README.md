@@ -26,5 +26,5 @@ Non-divers are also welcome! Who knows, one day you could become a competitive f
 
 #### 📫 How to reach me
 
-- LinkedIn: https://www.linkedin.com/in/noppanut
 - E-mail: noppanut.connect@gmail.com
+- LinkedIn: https://www.linkedin.com/in/noppanut

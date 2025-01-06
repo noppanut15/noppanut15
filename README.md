@@ -21,7 +21,7 @@ I've just started a new project, [depthviz](https://github.com/noppanut15/depthv
 
 Given my project, you might guess it... YES! I'm a passionate freediver and scuba diver. I'm also a certified conservation diver, helping non-profit organizations conduct marine research and conservation activities.
 
-If you're interested in helping out with depthviz, feel free to reach out or take a look at the issues labeled [`help wanted`](https://github.com/noppanut15/depthviz/labels/help%20wanted) 
+If you're interested in helping out with depthviz, feel free to reach out or take a look at the issues labeled [`help wanted`](https://github.com/noppanut15/depthviz/labels/help%20wanted).
 Non-divers are also welcome! Who knows, you could become a competitive freediver one day and use this tool yourself.
 
 #### 📫 How to reach me

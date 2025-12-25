@@ -19,7 +19,7 @@ I'm Noppanut, or you can call me "Top"! I'm an engineer at [Cisco](https://www.c
 
 I've just started a new project, [depthviz](https://github.com/noppanut15/depthviz), a Python CLI tool that generates depth tracking overlays for freediving footage from exported dive computer logs.
 
-I'm also developing **[SnapUEN](https://noppanut15.github.io/SnapUEN/)**, a native iOS utility app designed for travelers and expats in Singapore. It bridges the gap between Singapore’s local SGQR payment system and international banking apps, for those without local bank accounts.
+I'm also developing [SnapUEN](https://noppanut15.github.io/SnapUEN/), a native iOS utility app designed for travelers and expats in Singapore. It bridges the gap between Singapore’s local SGQR payment system and international banking apps, for those without local bank accounts.
 
 Given my project, you might guess it... YES! I'm a passionate freediver and scuba diver. I'm also a certified conservation diver, helping non-profit organizations conduct marine research and conservation activities.
 
